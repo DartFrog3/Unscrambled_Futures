@@ -13,7 +13,7 @@ The resulting forecasts can be used to automatically trade on Kalshi's "Egg Pric
 
 ## 2  Implementation Details
 
-1. **Ingest & Vectorise**: Pull news via NewsAPI, embed within sentence transformer (Sentence‑T5), store in FAISS.
+1. **Ingest & Vectorize**: Pull news via NewsAPI, embed within sentence transformer (Sentence‑T5), store in FAISS.
 2. **Agent Reasoning**: LangGraph pipeline `Retriever → Reasoner (GPT‑4o / FinBERT fallback)` outputs impact score JSON.
 3. **Monthly Feature Build**: Aggregate daily impact × confidence --> `news_price_score`.
 4. **Model Suite**:
