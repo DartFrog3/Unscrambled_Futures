@@ -32,31 +32,31 @@ While not all strategies performed well (ex. TFT), some sample results on the mo
 <table>
   <tr>
     <td align="center">
-      <img src="samples_results/SARIMAX_with_NewsScoring.png" width="400"><br>
+      <img src="sample_results/SARIMAX_with_NewsScoring.png" width="400"><br>
       <em>Forecast of SARIMAX with Agentic News Scoring Feature</em>
     </td>
     <td align="center">
-      <img src="samples_results/SARIMAX.png" width="400"><br>
+      <img src="sample_results/SARIMAX.png" width="400"><br>
       <em>Forecast of Basic SARIMAX</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="samples_results/LSTM_validation.png" width="400"><br>
+      <img src="sample_results/LSTM_validation.png" width="400"><br>
       <em>LSTM Validation Performance</em>
     </td>
     <td align="center">
-      <img src="samples_results/SARIMAX_naive_vs_exog_forecast.png" width="400"><br>
+      <img src="sample_results/SARIMAX_naive_vs_exog_forecast.png" width="400"><br>
       <em>Forecast of basic ARIMA vs SARIMAX with Exogenous Features</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="samples_results/agent_graph.png" width="400"><br>
+      <img src="sample_results/agent_graph.png" width="400"><br>
       <em>Graph Illustration of the Simple Agentic Workflow</em>
     </td>
     <td align="center">
-      <img src="samples_results/SARIMAX_with_exog_summary.png" width="400"><br>
+      <img src="sample_results/SARIMAX_with_exog_summary.png" width="400"><br>
       <em>SARIMAX Model Summary</em>
     </td>
   </tr>
