@@ -1,5 +1,5 @@
 # Unscrambled_Futures
-*Sandbox of classical time-series forecasting and machine learning models incorporating agentic news‑reasoning and real‑time sentiment analysis for automated trading within the US egg market.*
+*Sandbox of classical time-series forecasting and machine learning models incorporating real-time agentic news reasoning and sentiment analysis for automated trading within the US egg market.*
 
 ---
 
