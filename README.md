@@ -52,7 +52,7 @@ While not all strategies performed well (ex. TFT), some sample results on the mo
   </tr>
   <tr>
     <td align="center">
-      <img src="sample_results/agent_graph.png" width="400"><br>
+      <img src="sample_results/agent_graph.png" width="400" height="500"><br>
       <em>Graph Illustration of the Simple Agentic Workflow</em>
     </td>
     <td align="center">
