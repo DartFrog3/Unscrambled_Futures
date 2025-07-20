@@ -17,10 +17,10 @@ The resulting forecasts can be used to automatically trade on Kalshi's "Egg Pric
 2. **Agent Reasoning**: LangGraph pipeline `Retriever → Reasoner (GPT‑4o / FinBERT fallback)` outputs impact score JSON.
 3. **Monthly Feature Build**: Aggregate daily impact × confidence --> `news_price_score`.
 4. **Model Suite**:
-   *SARIMAX with order determination via ACF, PACF, KPSS, ADF and includes exogenous features*,
-   *XGBoost 400 estimators with a max depth of 4*,
-   *LSTM *,
-   *TFT 32‑hid 4‑head*
+        a. *SARIMAX with order determination via ACF, PACF, KPSS, ADF and includes exogenous features*,
+        b. *XGBoost 400 estimators with a max depth of 4*,
+        c. *LSTM *,
+        d. *TFT 32‑hid 4‑head*
 5. **Trade Based on Model Forecasts**: Kalshi API
 
 ---
